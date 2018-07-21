@@ -18,6 +18,6 @@ A*算法不但记录其到源点的代价，还计算当前点到目标点的期
 map_server:提供了为ROS服务的地图数据.
 URDF:Unified Robot Description Format，统一机器人描述格式.XACRO格式提供了一些更高级的方式来组织编辑机器人描述.[参考](https://blog.csdn.net/sunbibei/article/details/52297524)
 
-### example
+### example(in /src)
 >roslaunch exercise_1 exercise_1.launch 为演示路径规划(以A*实现)
 >roslaunch exercise_2 exercise_2.launch 为演示轨迹规划
